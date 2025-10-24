@@ -1,0 +1,2 @@
+imain()
+	print("hi")
